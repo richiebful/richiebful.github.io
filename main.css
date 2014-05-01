@@ -54,7 +54,7 @@ body
 }
 
 #title-cell{
-    padding-top:3%;
+    vertical-align:middle;
     text-align:center;
     margin-right:20%;
 }
