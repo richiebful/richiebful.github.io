@@ -54,12 +54,10 @@ body
 }
 
 #title-cell{
+    padding-top:3%;
+    padding-bottom:3%;
     text-align:center;
     margin-right:20%;
-}
-
-#title-cell .header-title{
-    vertical-align:middle;
 }
 
 #link-cell{
