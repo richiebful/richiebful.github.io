@@ -54,9 +54,12 @@ body
 }
 
 #title-cell{
-    vertical-align:middle;
     text-align:center;
     margin-right:20%;
+}
+
+#title-cell .header-title{
+    vertical-align:middle;
 }
 
 #link-cell{
