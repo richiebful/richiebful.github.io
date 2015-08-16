@@ -1,0 +1,15 @@
+---
+layout: post
+title: Starting with Shogi Programming
+date: 2015-08-15 11:03:41
+---
+
+Nothing like a summer project to stave off the doldrums, right? That's what I thought last summer. I was a young, overconfident programmer who thought they could tackle just about any challenge. Well, to say the least, I've thrown out an entire working framework once, made several abortive attempts at GUI with Qt and GTK+, and made minimal progress in the design of a game-playing AI.
+
+But along the way, the lessons learned have been far more important. Tools for dealing with memory leakage (**valgrind**), processing time (**gprof**), documentation (**doxygen**) and debugging (**gdb**) have helped build maturity and discipline as a software engineer, rather than just a hacker. More than just copypasting and hacking together bits of code, I learned how to develop reusable, modular code. At the end of it all, one year later, my little command-line Shogi interface works.
+
+Next steps: (listed by priority)
+* GUI interface (GTK or QT?)
+* Development of a Shogi AI
+* Making online server for Shogi games
+* Interface server with client
