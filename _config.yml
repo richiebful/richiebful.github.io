@@ -3,7 +3,7 @@ title: Richard Fulop
 email: richardbfulop@gmail.com
 description: > # 
   A blog about a variety of topics ranging from computer science to computer science. Oh, did I mention computer science?
-baseurl: "/blog/"
+baseurl: ""
 url: "http://richiebful.github.io" # the base hostname & protocol for your site
 twitter_username: richiebful
 github_username:  richiebful
