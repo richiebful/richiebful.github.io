@@ -4,8 +4,4 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
-
-You can find the source code for the Jekyll new theme at: [github.com/jglovier/jekyll-new](https://github.com/jglovier/jekyll-new)
-
-You can find the source code for Jekyll at [github.com/jekyll/jekyll](https://github.com/jekyll/jekyll)
+Hi, I'm Richard Fulop. I've been working in Computer Science for about three years now. From my first basic HTML site to this one, I've had quite the journey. With a lot of luck, great teachers and co-workers, and a bit of hard work, I am now the person in this [Curriculum Vitae](../assets/resume.pdf).
