@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Scoring Decision Tree Nodes
+title: Scoring Moves
 date: 2016-09-06 11:03:41
 ---
 
