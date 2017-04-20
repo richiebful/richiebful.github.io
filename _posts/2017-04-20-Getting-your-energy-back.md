@@ -2,6 +2,7 @@
 layout: post
 title: Getting your energy back
 category: life
+excerpt: Ever wake up, have your morning breakfast (with necessary coffee) only to realize that, two hours later, you're tired and hungry again? Then you decide "Ah! let's have another cup of coffee!" or "A bagel would hit the spot right now." You become dependent on constant snacking to keep your energy and work productivity up. High levels of simple sugar and other carbs in your diet might be the problem.
 ---
 
 Ever wake up, have your morning breakfast (with necessary coffee) only to realize that, two hours later, you're tired and hungry again? Then you decide "Ah! let's have another cup of coffee!" or "A bagel would hit the spot right now." You become dependent on constant snacking to keep your energy and work productivity up. High levels of simple sugar and other carbs in your diet might be the problem.
