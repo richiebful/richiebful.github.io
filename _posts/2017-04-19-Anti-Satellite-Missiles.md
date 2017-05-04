@@ -2,9 +2,10 @@
 layout: post
 title: Anti-Satellite Missiles and their Dangers
 category: defense
+excerpt_seperator: <!--excerpt-->
 ---
-	
 Space is becoming far more democratic, as far as military access goes. From the launch of Sputnik in 1957, 12 countries have launched their own satellites into space using native technology. Dozens more have launch plans in the works. That leaves around 60 countries that have used other countries’ rockets to launch their own satellites.
+<!--excerpt-->
 
 Civilian uses for space abound. Open Google Maps on your phone, and you’ll connect to satellites to use GPS. Take a look at Satellite view, and you’ll see images from above. Go home and flip on the TV. If you’re like the millions of Americans with Dish or DirecTV, you get your television from satellites too. However, this technology isn’t anything all that new. The military launched its first reconnaissance satellite in 1959. The GPS system was motivated by the necessity of the United States to develop accurate submarine-launched ballistic missiles (or SLBMs) and was only opened to the civilian market after a Korean Air flight was shot down after straying into Soviet territory. In short, many of the technologies we use today were developed because of the massive Cold War investment in high tech. 
 
