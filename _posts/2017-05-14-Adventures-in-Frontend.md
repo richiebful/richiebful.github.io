@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Adventures in front-end development: what a mess
+title: Adventures in front-end development
 category: work
 ---
 
