@@ -1,6 +1,6 @@
 ---
 layout: post
-title: A disappearing act: the American middle class
+title: A disappearing act\: the American middle class
 category: policy
 ---
 
