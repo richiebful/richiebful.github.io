@@ -1,0 +1,122 @@
+body {
+	margin:3% 5%;
+        text-align:center;
+        background-color: white;
+}
+
+p, li{                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  
+        font-size: 20px;
+        font-family: "Roboto Slab", serif;
+}
+
+#primary-nav-wrap
+{
+        display:block;
+        background-color: rgb(43, 43, 43);
+	list-style:none;     
+        padding: 0 5%;
+}
+
+#primary-nav-wrap li{
+	display:inline;
+}
+
+#primary-nav-wrap a
+{
+	color: white;
+    	padding: 25px 25px;
+    	text-decoration: none;
+    	text-align:left;
+    	display: inline-block;
+	font-family: 'Source Sans Pro', sans-serif;
+}
+
+.dropdown
+{
+	position: relative;
+	display:inline-block;
+}
+
+.dropdown-content
+{
+	display: none;
+	background-color: rgb(43, 43, 43);
+	position: absolute;
+        left:0;
+    	width: max-content;
+    	min-width: 50px;
+    	box-shadow: 0px 8px 16px 0px rgba(10,20,30,0.2);
+	z-index: 1;
+	text-align: left;
+}
+
+.dropdown-content li{
+	color:white;
+}
+
+.dropdown-content a{
+	color: white;
+        padding: 0;
+        text-decoration: none;
+        display: block;
+        font-family: 'Source Sans Pro', sans-serif;
+	white-space: nowrap;
+}
+
+#primary-nav-wrap a:hover
+{
+	background-color: white;
+	color: rgb(43, 43, 43);
+}
+
+.dropdown a:hover + ul, .dropdown-content:hover {
+        display: block;
+}
+
+article{
+        text-align: left;
+}
+
+.header{
+        font-size: 35px;
+        font-family: 'Source Sans Pro', sans-serif;
+        margin: 50px 0px;
+}
+
+h1, h2, h3, h4, h5{
+    font-family: 'Source Sans Pro', sans-serif;
+}
+
+#tag-table, #tag-table tr, #tag-table td,  #tag-table th{
+        border: 1px solid black;
+        border-collapse: collapse;
+}
+
+#tag-table td, #tag-table th{
+        font-size: 20px;
+}
+
+q{
+        quotes: "«" "»";
+}
+
+.flag{
+        border: 1px solid black;
+}
+
+.flag > a {
+        padding: 0px;
+}
+
+.wrapper{
+        padding: 1%;
+        text-align: left;
+}
+
+.post-link{
+        color: black;
+}
+
+.post-list li{
+        list-style: none;
+}
