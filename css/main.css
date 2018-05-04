@@ -5,7 +5,7 @@ body {
 }
 
 p, li{                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  
-        font-size: 20px;
+        font-size: 24px;
         font-family: "Roboto Slab", serif;
 }
 
@@ -75,6 +75,8 @@ p, li{
 
 article{
         text-align: left;
+        font-size: 20px;
+        font-family: "Roboto Slab", serif;
 }
 
 .header{
