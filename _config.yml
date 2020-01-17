@@ -7,6 +7,7 @@ baseurl: ""
 url: "http://richardfulop.me" # the base hostname & protocol for your site
 twitter_username: richiebful
 github_username:  richiebful
+copyright_date: 2020
 
 # Build settings
 markdown: kramdown
