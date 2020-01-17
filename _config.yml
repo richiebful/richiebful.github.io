@@ -8,6 +8,19 @@ url: "http://richardfulop.me" # the base hostname & protocol for your site
 twitter_username: richiebful
 github_username:  richiebful
 copyright_date: 2020
+toolbar:
+ru:
+  toolbar:
+    main: "Ричард Фулоп"
+    portfolio: "Программы"
+    about: "Обо мне"
+    blog: "Блог"
+en:
+  toolbar:
+    main: "Richard Fulop"
+    portfolio: "Portfolio"
+    about: "About"
+    blog: "Blog"
 
 # Build settings
 markdown: kramdown
