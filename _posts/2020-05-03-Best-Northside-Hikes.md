@@ -20,4 +20,4 @@ This urban trail connects East Allegheny (Deutschtown) to Fineview, a close-knit
 
 One part urban trail, one part interactive art exhibit, [Troy Hill Steps](https://troyhillsteps.com/) "invites you to listen in on the stories, struggles, memories, and dreams of Troy Hill residents as you weave your way up and down the steps that span the neighborhood." After you install the Echoes app, you can tune into a walking tour of this hilly Northside neighborhood.
 
-<img src="/img/troy-hill-steps.jpg" alt="Troy Hill Steps trail map">
+<img src="{{ site.baseurl }}{% link img/troy-hill-steps.jpg %}" alt="Troy Hill Steps trail map">
