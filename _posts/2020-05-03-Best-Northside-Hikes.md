@@ -10,6 +10,11 @@ With the new [CDC guidelines](https://www.cdc.gov/coronavirus/2019-ncov/daily-li
 
 **Rating**: difficult
 
+<figure class="photo-container">
+ <img src="assets/rising-main-steps.jpg" width="640"/>
+ <figcaption>Rising Main steps</figcaption>
+</figure>
+
 This urban trail connects East Allegheny (Deutschtown) to Fineview, a close-knit residential neighborhood. The trail is a combination of somewhat-sketchy public concrete staircases, sidewalks and asphalt. The trail is also somewhat hard to follow with the signage, and it has multiple branches, so I've created a map below so you can follow along. That being said, the awesome view from the Fineview Overlook, and bragging rights from climbing the [largest staircase in Pittsburgh](https://pittsburghorbit.com/2015/06/14/step-beat-rising-main-the-longest-steps/) (371 steps!) makes this all worth it.
 
 <iframe src="https://www.google.com/maps/d/embed?mid=1AKgnJKOYvsctXNFGQbrvYtU68Str68jV" width="640" height="480"></iframe>
