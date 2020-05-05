@@ -11,7 +11,7 @@ With the new [CDC guidelines](https://www.cdc.gov/coronavirus/2019-ncov/daily-li
 **Rating**: difficult
 
 <figure class="photo-container">
- <img src="assets/rising-main-steps.jpg" width="640"/>
+ <img src="/assets/rising-main-steps.jpg" width="640"/>
  <figcaption>Rising Main steps</figcaption>
 </figure>
 
