@@ -30,3 +30,8 @@ One part urban trail, one part interactive art exhibit, [Troy Hill Steps](https:
 # Riverview Park
 
 **Rating**: moderate
+
+Riverview is the main city park in the Northside of Pittsburgh. It is home to the Allegheny Observatory, a historical research institution and part of the University of Pittsburgh. Contrary to the name, the Allegheny or Ohio Rivers are not visible, except during winter after the leaves have fallen. There are a lot of trail options, varying from single track to dirt roads, so take a look at the map link below.
+
+[A potential loop](https://www.hikingproject.com/trail/7047054/riverview-park-adventure)
+[Official City Parks Map](https://cdn2.hubspot.net/hubfs/415693/assets/docs/riverview-letter.pdf)
