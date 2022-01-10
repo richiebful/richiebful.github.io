@@ -1,8 +1,3 @@
----
-layout: null
-sitemap:
-  exclude: 'yes'
----
 function toggleMobileMenu() {
   $('.navigation-wrapper').toggleClass('visible');
   $('.btn-mobile-menu__icon').toggleClass('hidden');
