@@ -37,7 +37,7 @@
   <link rel="stylesheet" href="css/main.css?{{site.time | date: '%s%N'}}">
   <link rel="canonical" href="{% if page.canonical %}{{ page.canonical }}{% else %}{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}{% endif %}">
   <link rel="alternate" type="application/rss+xml" title="Richard Fulop" href="/feed.xml">
-  <script src="https://kit.fontawesome.com/{{ site.font_awesome }}" crossorigin="anonymous"></script>
+  <script src="https://kit.fontawesome.com/928be36974.js" crossorigin="anonymous"></script>
 </head>
 
   <body>
@@ -114,10 +114,21 @@
 
 
     <div class="content-wrapper">
-      <div class="content-wrapper__inner">
-        {{ content }}
-
-    
+        <div class="content-wrapper__inner">
+           <ul class="timeline">
+          <li class="timeline-inverted">
+        <div class="timeline-image">
+          <img class="img-me" src="{{ project.img | prepend: site.baseurl }}" alt="">
+        </div>
+        <div class="timeline-panel">
+          <div class="timeline-heading">
+            <h4>Data Engineer at Free Market Health</h4>
+          </div>
+          <div class="timeline-body">
+            
+        </div>
+      </li>
+    </ul>
 
 
       </div>
