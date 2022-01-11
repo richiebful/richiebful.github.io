@@ -29,12 +29,8 @@ $(document).ready(function () {
     $('.content-wrapper').addClass('showing');
   })
 
-  if (window.location.hash && window.location.hash == '#projects') {
+  if (window.location.hash && window.location.hash == '#resume') {
     $('a.panel-button').click();
-  }
-
-  if (window.location.pathname !== '{{ site.baseurl }}/' && window.location.pathname !== '{{ site.baseurl }}/index.html') {
-    $('.panel-cover').addClass('panel-cover--collapsed')
   }
 
   $('.btn-mobile-menu').click(function () {
